@@ -1,6 +1,6 @@
 ---
 layout: post
-title:      "**Software Engineering, Seriously?"
+title:      "Software Engineering, Seriously?"
 date:       2019-01-14 22:11:07 -0500
 permalink:  software_engineering_seriously
 ---
